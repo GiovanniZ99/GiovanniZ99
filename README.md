@@ -6,12 +6,12 @@
   public class Bio {<br>
   private String name = "Giovanni";<br>
   private String title = "Back-End Developer";<br>
-  private String location = "Naples, Italy";<br>
+  private String location = "Naples, Italy";
   } <br>
   public class Skills {<br>
   private String language = "Java";<br>
   private String databases = "MySql";<br>
-  private String framework = "Spring";<br>
+  private String framework = "Spring";
   }<br>
 </strong></p>
 

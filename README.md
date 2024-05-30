@@ -12,10 +12,7 @@
   private String language = "Java";<br>
   private String databases = "MySql";<br>
   private String framework = "Spring"<br>
-  }<br>
-  public class AdditionalSkills {<br>
-    private String[] markupLanguages = {"HTML", "CSS"};<br>
-    private String frontendLanguage = "JavaScript";<br>
+  private String[] frontendLanguages = {"HTML", "CSS","JavaScript"};<br>
   }<br>
 </strong></p>
 

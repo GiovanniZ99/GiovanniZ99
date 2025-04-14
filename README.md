@@ -33,7 +33,7 @@
   } <br>
   public class Skills {<br>
   private String languages = "Java, Python";<br>
-  private String databases = "Postgres, MySql";<br>
+  private String databases = "Postgres, MySQL";<br>
   private String framework = "Spring";
   }<br>
 </strong></p>

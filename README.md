@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Giovanni from Naples, Italy</h1>
-<h3 align="center">A passionate backend developer with experience in Java, SQL, Spring and basic frontend knowledge</h3>
+<h3 align="center">A passionate backend developer with experience in Java, Python, SQL and basic frontend knowledge</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
